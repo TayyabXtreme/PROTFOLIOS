@@ -72,36 +72,21 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      title: "Instagram Clone - React.js", 
+      des: "An Instagram clone built with React and Firebase includes features such as photo uploads, likes, comments, and a real-time chat function using Firebase for backend services. This clone integrates React Native for mobile compatibility and Firebase for real-time data updates and user authentication.",
+      img: "/ins.jpg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/chak.png", "/fire.png"],
+      link: "https://github.com/TayyabXtreme/XtremInstagram.git",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      title: "Muet Food - Fast Food Application",
+      des: "A fast food application built with HTML, CSS, JS, Toastify, and Firebase offers a complete admin panel for full CRUD operations, including order acceptance and rejection. This app ensures efficient management of food orders in real-time.",
+      img: "/mue.jpg",
+      iconLists: ["/html-5.png", "/css-3.png", "/js.png", "/fire.png"],
+      link: "https://github.com/TayyabXtreme/MUETFOOD.git",
     },
-    {
-      id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
-    },
-    {
-      id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
-    },
+    
   ];
   
   export const testimonials = [
